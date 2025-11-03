@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import os
 import time
 
-# pi shutdown script XDXDXDXDXDXDXDXDXDXD
+# pi shutdown script
 # short press <5s = clean shutdown
 # long press >=5s = reboot
 
